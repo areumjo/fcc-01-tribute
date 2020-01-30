@@ -33,3 +33,10 @@ In software development and product management, a user story is an informal, nat
 
 ### Strecth goals
 - Deployment : Use Netlify or GitHub myPage
+- Header navigation function : Click nav item from the nav bar, page scroll down -- can make fixed nar bar later
+
+### Snapshot
+- Pass ten tests from [codepen](https://codepen.io/areumjo/pen/YzPoNOY)
+
+- Screenshot of the Tribute Webpage
+  - ![Screenshot](fcc-tribute-snap.png)
